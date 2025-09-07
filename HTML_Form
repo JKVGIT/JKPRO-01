@@ -159,6 +159,9 @@
         <input type="checkbox" required> By signing up, you agree to the <a href="#">Play Term of Service</a>
       </div>
       <button type="submit" class="register-btn">Registration</button>
+      <button type="submit" class="register-btn">Registration</button>
+      <button type="submit" class="register-btn">Registration</button>
+
     </form>
   </div>
 </div>
